@@ -1,6 +1,6 @@
 import React from 'react';
 import { withKnobs, text } from '@storybook/addon-knobs';
-import NumberInput from '../NumberInput';
+import NumberInput from '../hooks/NumberInput';
 
 export default {
   title: 'Input',
